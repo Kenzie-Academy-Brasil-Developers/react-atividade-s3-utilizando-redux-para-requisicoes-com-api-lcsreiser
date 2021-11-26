@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: linear-gradient(to right, #0099f7, #f11712);
+}
+
+.divContainer {
+  height: 80vh;
+  width: 80vw;
+  background: #0000004d;
+  box-shadow: -10px 10px 15px black;
+}
