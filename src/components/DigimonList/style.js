@@ -7,7 +7,7 @@ export const Container = styled.div`
   align-items: center;
 
   img {
-    height: 300px;
+    height: 200px;
     border-radius: 20%;
     margin-bottom: 3vh;
   }
